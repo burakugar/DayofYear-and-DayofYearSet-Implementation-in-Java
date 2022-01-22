@@ -1,0 +1,9 @@
+Elements in the sets are: Date: 1Month: 1
+Date: 9Month: 1
+Date: 4Month: 2
+Date: 1Month: 3
+Date: 2Month: 3
+Date: 2Month: 9
+Date: 9Month: 11
+Date: 2Month: 9
+Date: 9Month: 11
